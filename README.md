@@ -4,7 +4,7 @@
 </h1>
 
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com) <br/>
-*No license given, use at your own risk*
+*No license given, use at your own risk!*
 
 ### DEPENDANCIES
 1. **Python 3.10 >**
