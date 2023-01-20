@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between; width: 100%">
+<div style="display: flex; justify-content: space-between; width: 100%; white-space: nowrap;">
 <div style="font-size: 28px">NERD PRIME REWARDS</div>
 
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="100">
