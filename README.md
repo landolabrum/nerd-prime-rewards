@@ -8,7 +8,7 @@
 ```
 "credentials": {
     "user": "<EMAIL>",
-    "password": "<PASSWORD>"
+    "password": "***<PASSWORD>***"
   },
   "team": [
     "<FIRST> <LAST>",
