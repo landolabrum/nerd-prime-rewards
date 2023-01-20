@@ -1,14 +1,17 @@
 # NERD PRIME REWARDS
 Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com)
-### INSTALL
-1. Install Dependancies 
-`$ pip install requirements.txt`
-2. Download **ChromeDriver**
+### DEPENDANCIES
+1. **Python 3.10.8**
+2. **ChromeDriver**
   - [ChromeDriver](https://chromedriver.chromium.org/downloads)
   - Add **ChromeDriver** to the top-level directory *where .git is*.
   - Unzip **ChromeDriver**
+### INSTALL
+1. Install Dependancies 
+`$ pip install requirements.txt`
 
-3. Configure Variables in ***config.json***
+
+2. Configure Variables in ***config.json***
 
 ```
 "credentials": {
