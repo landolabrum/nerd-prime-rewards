@@ -11,15 +11,15 @@ Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com
 
 
 2. Configure Variables in ***config.json***
-
+** credentials['team'] ** - is Capitalized **ex.** Jace Otterson
 ```
 "credentials": {
     "user": "<EMAIL>",
     "password": "<PASSWORD>"
   },
   "team": [
-    "<FIRST> <LAST>",
-    "<FIRST> <LAST>"
+    "<First> <Last>",
+    "<First> <Last>"
   ],
 ```
 4. Run `$ python main.py`
