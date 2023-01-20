@@ -1,6 +1,8 @@
+<div style="display: flex; justify-content: space-between">
 # NERD PRIME REWARDS
 
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="100">
+</div>
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
 ### DEPENDANCIES
 1. **Python 3.10 >**
