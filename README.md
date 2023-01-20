@@ -2,7 +2,7 @@
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="90">
  REWARDS
 </h1>
-
+<h1></h1>
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
 ### DEPENDANCIES
 1. **Python 3.10 >**
