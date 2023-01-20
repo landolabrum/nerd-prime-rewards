@@ -3,6 +3,9 @@
   font-size: 12px !important;
   font-style: italic;
 }
+h1{
+  color: #f33;
+}
 </style>
 <h1>
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="90">
