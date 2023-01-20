@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; width: 100%">
-<h1>NERD PRIME REWARDS</h1>
+<span style="font-size: 28px">NERD PRIME REWARDS</span>
 
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="100">
 </div>
