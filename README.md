@@ -1,5 +1,6 @@
-| # NERD PRIME REWARDS | <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="100"> |
-
+<h1>NERD PRIME REWARDS 
+<img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="100">
+</h1>
 
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
 ### DEPENDANCIES
