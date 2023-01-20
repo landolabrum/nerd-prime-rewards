@@ -26,4 +26,6 @@ Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
     "<First> <Last>"
   ],
 ```
-4. Run `$ python main.py`
+
+### RUN SCRIPT
+Run `$ python main.py`
