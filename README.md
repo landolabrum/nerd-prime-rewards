@@ -4,7 +4,7 @@
 </h1>
 
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com) <br/>
-<span style="font-size: 12px; font-style: italic;" >No license given, use at your own risk</span>
+<small style="font-size: 12px; font-style: italic;" >No license given, use at your own risk</small>
 <!-- *No license given, use at your own risk* -->
 
 ### DEPENDANCIES
