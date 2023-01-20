@@ -1,20 +1,10 @@
-<style>
-.notice{
-  font-size: 12px !important;
-  font-style: italic;
-}
-h1{
-  color: #f33;
-}
-</style>
 <h1>
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="90">
  REWARDS
 </h1>
 
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com) <br/>
-<div class="notice" >No license given, use at your own risk</div>
-<!-- *No license given, use at your own risk* -->
+*No license given, use at your own risk*
 
 ### DEPENDANCIES
 1. **Python 3.10 >**
