@@ -2,8 +2,7 @@
 Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com)
 ### DEPENDANCIES
 1. **Python 3.10 >**
-2. **ChromeDriver** - *Matching Version to your OS*
-  - [ChromeDriver](https://chromedriver.chromium.org/downloads)
+2. **[ChromeDriver](https://chromedriver.chromium.org/downloads)** - *Matching Version to your OS*
   - Add **ChromeDriver** to the top-level directory *where .git is*.
   - Unzip **ChromeDriver**
 ### INSTALL
