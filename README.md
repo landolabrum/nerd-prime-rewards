@@ -11,7 +11,7 @@ Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
   - Unzip **ChromeDriver**
 ### INSTALL
 1. Install Dependancies 
-$ `pip install requirements.txt`
+$ `pip install -r requirements.txt`
 
 
 2. Configure Variables in ***config.json***<br/>
