@@ -10,9 +10,9 @@ Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com
 `$ pip install requirements.txt`
 
 
-2. Configure Variables in ***config.json***
-** credentials['team'] **
-*- is Capitalized* **ex.**<br/> *Jace Otterson*
+2. Configure Variables in ***config.json***<br/>
+** credentials['team'] **<br/>
+*- is Capitalized* **ex.** *Jace Otterson*
 ```
 "credentials": {
     "user": "<EMAIL>",
