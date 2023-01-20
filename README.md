@@ -11,8 +11,7 @@ Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com
 
 
 2. Configure Variables in ***config.json***<br/>
-** credentials['team'] **<br/>
-*- is Capitalized* **ex.** *Jace Otterson*
+*credentials['team'] Capitalized* **ex.***Jace Otterson*
 ```
 "credentials": {
     "user": "<EMAIL>",
