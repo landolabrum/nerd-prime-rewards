@@ -15,7 +15,7 @@ Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
 
 
 2. Configure Variables in ***config.json***<br/>
-`credentials['team']` Capitalized, **ex.** `"<First> <Last>",` => `"Jace Otterson"`
+`credentials['team']` must be Capitalized, **ex.** `"<First> <Last>",` => `"Jace Otterson"`
 ```
 "credentials": {
     "user": "<EMAIL>",
