@@ -1,5 +1,6 @@
 # NERD PRIME REWARDS
-![prime](https://prime.nerdunited.com/images/prime-logo.svg)
+
+<img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="100">
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
 ### DEPENDANCIES
 1. **Python 3.10 >**
