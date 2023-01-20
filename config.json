@@ -1,14 +1,11 @@
 {
   "credentials": {
-    "user": "<EMAIL>",
-    "password": "<PASSWORD>"
+    "user": "llabrum@nerdunited.com",
+    "password": "1Wasatch!"
   },
-  "team": [
-    "<FIRST> <LAST>",
-    "<FIRST> <LAST>"
-  ],
   "urls": {
-    "signin": "https://prime.nerdunited.com/login"
+    "signin": "https://prime.nerdunited.com/login",
+    "members": "https://prime.nerdunited.com/projects/9/members"
   },
   "xpaths": {
     "reward_trigger": "//*[@id='__next']/div/header/div/div[2]/button",
@@ -19,6 +16,17 @@
     "members_table": "//*[@id='__next']/div/main/div[2]/div/div/div[2]/table/tbody",
     "team_dropdown": "/html/body/div[4]/div[3]/div/form/div[1]/div/div/div/div/div/div/div/span[2]"
   },
+  "team": [
+    "Alfredo Nava",
+    "Jason Heap",
+    "McKay Ferre",
+    "Christian Brotherson",
+    "Eric Neff",
+    "Jordan Otterson",
+    "Ryan Christensen",
+    "Richa Tuli",
+    "Eric Autrey"
+  ],
   "context": {
     "pre": {
       "adjective": [

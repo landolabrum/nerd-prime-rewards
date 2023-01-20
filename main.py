@@ -8,7 +8,7 @@ from sel import *
 from message import synonym
   
 # Reading from file
-iterations=9
+iterations=10
 ############## SCRIPT ##############
 def init():
   f = open ('config.json', "r")
