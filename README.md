@@ -1,11 +1,10 @@
-### NERD PRIME REWARDS ###
+# NERD PRIME REWARDS
 
-# INSTALL
-
-Install Dependancies 
+## INSTALL
+1. Install Dependancies 
 `$ pip install requirements.txt`
-
-Configure Variables in config.json
+2. Download Chromedriver [here](https://chromedriver.chromium.org/downloads)
+3. Configure Variables in config.json
 `"credentials": {
     "user": "<EMAIL>",
     "password": "<PASSWORD>"
