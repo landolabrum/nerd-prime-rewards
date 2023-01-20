@@ -1,0 +1,31 @@
+{
+  "credentials": {
+    "user": "<EMAIL>",
+    "password": "<PASSWORD>"
+  },
+  "team": [
+    "<FIRST> <LAST>",
+    "<FIRST> <LAST>"
+  ],
+  "urls": {
+    "signin": "https://prime.nerdunited.com/login"
+  },
+  "xpaths": {
+    "reward_trigger": "//*[@id='__next']/div/header/div/div[2]/button",
+    "reward_input": "/html/body/div[4]/div[3]/div/form/div[1]/div/div/div[2]",
+    "reward_types": "/html/body/div[3]/div[3]/div/form/div[2]/div/div",
+    "reward_submit": "//*[@id=':r3:']",
+    "signin_button": "//*[@id='__next']/main/div/div/div/form/div/div[3]/div[2]/div/button[2]",
+    "members_table": "//*[@id='__next']/div/main/div[2]/div/div/div[2]/table/tbody",
+    "team_dropdown": "/html/body/div[4]/div[3]/div/form/div[1]/div/div/div/div/div/div/div/span[2]"
+  },
+  "context": {
+    "pre": {
+      "adjective": [
+        "great",
+        "amazing",
+        "imperative"
+      ]
+    }
+  }
+}
