@@ -1,6 +1,6 @@
 <h1>
 <img alt="prime" src="https://prime.nerdunited.com/images/prime-logo.svg" width="90">
-NERD PRIME REWARDS
+ REWARDS
 </h1>
 
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
