@@ -4,7 +4,9 @@
 </h1>
 
 Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com) <br/>
-*No license given, use at your own risk*
+<span style="font-size: 12px; font-style: italic;" >No license given, use at your own risk</span>
+<!-- *No license given, use at your own risk* -->
+
 ### DEPENDANCIES
 1. **Python 3.10 >**
 2. **[ChromeDriver](https://chromedriver.chromium.org/downloads)** - *Matching Version to your OS*
