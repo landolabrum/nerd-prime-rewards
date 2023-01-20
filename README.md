@@ -3,7 +3,11 @@
 ## INSTALL
 1. Install Dependancies 
 `$ pip install requirements.txt`
-2. Download Chromedriver [Here](https://chromedriver.chromium.org/downloads)
+2. Download **ChromeDriver**
+  - [ChromeDriver](https://chromedriver.chromium.org/downloads)
+  - Add **ChromeDriver** to the top-level directory *where .git is*.
+  - Unzip **ChromeDriver**
+
 3. Configure Variables in ***config.json***
 
 ```
