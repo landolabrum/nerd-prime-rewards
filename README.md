@@ -1,6 +1,6 @@
 # NERD PRIME REWARDS
-
-## INSTALL
+Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com)
+### INSTALL
 1. Install Dependancies 
 `$ pip install requirements.txt`
 2. Download **ChromeDriver**
