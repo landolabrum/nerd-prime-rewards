@@ -1,5 +1,5 @@
 # NERD PRIME REWARDS
-Automation for Rewards @ [prime.nerdunited.com](https://www.prime.nerdunited.com)
+Automation for Rewards  [prime.nerdunited.com](https://www.prime.nerdunited.com)
 ### DEPENDANCIES
 1. **Python 3.10 >**
 2. **[ChromeDriver](https://chromedriver.chromium.org/downloads)** - *Matching Version to your OS*
