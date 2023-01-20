@@ -16,4 +16,4 @@
     "<FIRST> <LAST>"
   ],
 ```
-4. `$ python main.py`
+4. Run `$ python main.py`
